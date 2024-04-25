@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNgRestAssure"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.859">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testBankEmployee"
+                time="2.859"
+                classname="getUserList.BankEmployeeTest">
+            </testcase>
+</testsuite>

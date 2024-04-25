@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BankEmployeeTestSuite">
+    <test name="BankEmployeeTest">
+        <classes>
+            <class name="getUserList.BankEmployeeTest"/>
+        </classes>
+    </test>
+</suite>

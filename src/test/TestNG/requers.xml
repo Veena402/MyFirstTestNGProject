@@ -1,0 +1,12 @@
+<!DOCTYPE  "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Reqres" verbose="1" >
+    <test name="Validate user" >
+
+        <classes>
+            <class name="test.ReadDataFromXL" />
+        </classes>
+    </test>
+
+
+</suite>
